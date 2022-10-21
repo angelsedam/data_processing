@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b90eec-4737-47ac-8d18-0f1d9d0d2b3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FACT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discretization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/PCA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +33,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/USER/Documents/python/github/data_processing/discretization.py"
+    "last_opened_file_path": "C:/Users/USER/Documents/python/github/data_processing/PCA.py"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="discretization" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="PCA" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="data_processing" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/discretization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
